@@ -1,8 +1,7 @@
 ### Installation
 git clone https://github.com/MichalApl/Scraper.git
---------------------------------------------------
-## Note!
-##### Adjust the script according to your target:
+
+### Adjust the script according to your target:
 * <OUTPUT-FILE> --> This is the file that will contain all the scraping results, name it as you wish (for example 'results.txt' or 'emails.txt').
 * <URL-HERE> --> Change this to your target's URL (for example 'https://google.com').
 * <DESIRED HTML TAG> --> Change this to the HTML tag of the data that you want to extract. You can check for the HTML tag by right-clicking -> Inspect -> mark the desired data with Ctrl + Shift + C and search for the HTML tag that your desired data is at, (for example 'span').
